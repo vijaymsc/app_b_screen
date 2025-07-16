@@ -9,7 +9,7 @@ class AppBScreen extends StatelessWidget {
       appBar: AppBar(title: Text('App B Screen')),
       body: const Center(
         child: Text(
-          'This is App B\'s screen!',
+          'This is App B\'s screen!   ',
           style: TextStyle(fontSize: 24),
         ),
       ),
